@@ -1,6 +1,6 @@
 {
-  "name": "panzoom",
-  "version": "4.3.1",
+  "name": "@dotnetcarpenter/panzoom",
+  "version": "4.3.2-rc.1",
   "description": "Extensible, mobile friendly pan and zoom framework (supports DOM and SVG).",
   "main": "index.js",
   "scripts": {
